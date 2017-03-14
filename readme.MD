@@ -3,6 +3,8 @@ Neil Maude, February 2017
 ##Overview
 This document describes the steps and processes used in the Advanced Lane Lines finding project.
 
+Video files available at: https://drive.google.com/open?id=0B2aeNxAHccrqYk5VTGE3dkpWOHM
+
 The objectives of this project are:
 
 1. Compute the camera calibration matrix and distortion coefficients to correct perspective for the camera used to generate the project data.
